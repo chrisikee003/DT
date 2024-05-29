@@ -1,0 +1,31 @@
+[{
+    "user_id": 99,
+    "first_name": "Samuel",
+    "last_name": "Jackson",
+    "birth_date": "2003-05-27",
+    "age": 22,
+    "gender": "M",
+    "phone": "0620111888",
+    "email": "samuel.jackson@example.com"
+},
+{
+    "user_id": 35,
+    "first_name": "Rafael",
+    "last_name": "Ramires",
+    "birth_date": "1999-05-07",
+    "age": 25,
+    "gender": "M",
+    "phone": "0620123456",
+    "email": "rafael.ramires@example.com"
+},
+{
+    "user_id": 66,
+    "first_name": "Kayle",
+    "last_name": "Newman",
+    "birth_date": "1981-04-06",
+    "age": 43,
+    "gender": "F",
+    "phone": "0915987654",
+    "email": "kayle.newman@example.com"
+}
+]

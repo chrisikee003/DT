@@ -1,0 +1,56 @@
+[
+    {
+        "host_id": 55,
+        "hostName": "John Pork",
+        "hostResponseTime": "within a hour",
+        "hostResponseRate": 5,
+        "hostListingsCount": 99,
+        "address": {
+            "street": "Uborka utca",
+            "latitude": 38.99,
+            "longitude": 49.65,
+            "postal_code": "943 66",
+            "city": "Highland",
+            "country": "United Kingdom",
+            "state": "Scotland",
+            "neighborhood": "Greenwich",
+            "borough": "Greenwich"
+         }
+    },
+    {
+        "host_id": 41,
+        "hostName": "Fiona Green",
+        "hostResponseTime": "within a day",
+        "hostResponseRate": 4,
+        "hostListingsCount": 88,
+        "address": {
+            "street": "Enchanted Lane",
+            "latitude": 77.12,
+            "longitude": -9.83,
+            "postal_code": "777 24",
+            "city": "Dunfermline",
+            "country": "United Kingdom",
+            "state": "Scotland",
+            "neighborhood": "Wonderland",
+            "borough": "Central"
+    }
+},
+    {
+        "hostID": 68,
+        "hostName": "Moe Fire",
+        "hostResponseTime": "within an hour",
+        "hostResponseRate": 5,
+        "hostListingsCount": 50,
+        "address": {
+            "street": "Dragonstone Road",
+            "latitude": 69.95,
+            "longitude": -21.19,
+            "postal_code": "123 45",
+            "city": "Edinburgh",
+            "country": "United Kingdom",
+            "state": "Scotland",
+            "neighborhood": "Dragon's Reach",
+            "borough": "Old Town"
+    }
+}
+]

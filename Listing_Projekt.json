@@ -1,0 +1,221 @@
+[
+    {
+        "listing_id": 44,
+        "host_id": 55,
+        "name": "Shrek’s Swamp",
+        "price": 199.99,
+        "minimumNights": 2,
+        "availability": 1,
+        "numberOfReviews": 99,
+        "lastReview": "2024-04-25",
+        "roomType": {
+            "name": "Entire home",
+            "description": "Fantastic house with three bedrooms"
+        },
+        "amenities": [
+            {
+                "name": "Wi-Fi"
+            },
+            {
+                "name": "Cable TV"
+            },
+            {
+                "name": "Heating"
+            }
+        ],
+        "photos": [
+            {
+                "photoURL": "https://a0.muscache.com/im/pictures/miso/Hosting-881808599061267756/original/b16970cf-1d55-4edd-bb1f-e1735d0a228e.jpeg?im_w=1200&im_q=highq",
+                "description": "The entrance of the house"
+            },
+            {
+                "photoURL": "https://a0.muscache.com/im/pictures/miso/Hosting-881808599061267756/original/58387bc5-15cf-4be7-bb18-56a9081326fb.jpeg?im_w=1200&im_q=highq",
+                "description": "Bedroom"
+            }
+        ],
+        "reviews": [
+            {
+                "user_id": 99,
+                "rating": 5.00,
+                "comment": "Very nice",
+                "review_date": "2024-02-27T16:24:22"
+            },
+            {
+                "user_id": 66,
+                "rating": 4.00,
+                "comment": "Awesome but not perfect",
+                "review_date": "2023-02-27T16:24:22"
+            }
+        ],
+        "bookings": [
+            {
+                "user_id": 52,
+                "checkIn": "2024-03-04",
+                "checkOut": "2024-03-07",
+                "noGuests": 2,
+                "payment": {
+                    "amount": 199.99,
+                    "payment_date": "2024-03-02",
+                    "payment_method": "Credit card"
+                }
+            },
+            {
+                "user_id": 39,
+                "checkIn": "2024-01-11",
+                "checkOut": "2024-01-15",
+                "noGuests": 2,
+                "payment": {
+                    "amount": 399.99,
+                    "payment_date": "2024-01-09",
+                    "payment_method": "Credit card"
+                }
+            }
+        ]
+    },
+    {
+        "listing_id": 45,
+        "host_id": 44,
+        "name": "Fairy Tale Cottage",
+        "price": 149.99,
+        "minimumNights": 3,
+        "availability": 1,
+        "numberOfReviews": 120,
+        "lastReview": "2024-05-10",
+        "roomType": {
+            "name": "Entire cottage",
+            "description": "Charming cottage with two bedrooms and a beautiful garden"
+        },
+        "amenities": [
+            {
+                "name": "Wi-Fi"
+            },
+            {
+                "name": "Fireplace"
+            },
+            {
+                "name": "Garden"
+            }
+        ],
+        "photos": [
+            {
+                "photoURL": "https://a0.muscache.com/im/pictures/0f61be88-4e2f-4ce2-90fa-5cc4b446b8c8.jpg?im_w=1200",
+                "description": "Front view of the cottage"
+            },
+            {
+                "photoURL": "https://a0.muscache.com/im/pictures/979bf417-5168-4422-b787-72edc7bd90d6.jpg?im_w=1440",
+                "description": "Cozy living room"
+            }
+        ],
+        "reviews": [
+            {
+                "user_id": 100,
+                "rating": 4.80,
+                "comment": "Absolutely magical",
+                "review_date": "2024-04-15T14:12:20"
+            },
+            {
+                "user_id": 67,
+                "rating": 4.50,
+                "comment": "Great place for a family retreat",
+                "review_date": "2023-03-22T10:30:40"
+            }
+        ],
+        "bookings": [
+            {
+                "user_id": 53,
+                "checkIn": "2024-04-05",
+                "checkOut": "2024-04-10",
+                "noGuests": 3,
+                "payment": {
+                    "amount": 149.99,
+                    "payment_date": "2024-04-01",
+                    "payment_method": "Credit card"
+                }
+            },
+            {
+                "user_id": 40,
+                "checkIn": "2024-02-10",
+                "checkOut": "2024-02-15",
+                "noGuests": 4,
+                "payment": {
+                    "amount": 299.98,
+                    "payment_date": "2024-02-08",
+                    "payment_method": "Credit card"
+                }
+            }
+        ]
+    },
+    {
+        "listing_id": 46,
+        "host_id": 68,
+        "name": "Dragon’s Cave",
+        "price": 299.99,
+        "minimumNights": 4,
+        "availability": 1,
+        "numberOfReviews": 85,
+        "lastReview": "2024-05-01",
+        "roomType": {
+            "name": "Entire cave",
+            "description": "Unique cave with a majestic view"
+        },
+        "amenities": [
+            {
+                "name": "Wi-Fi"
+            },
+            {
+                "name": "Hot Tub"
+            },
+            {
+                "name": "Panoramic View"
+            }
+        ],
+        "photos": [
+            {
+                "photoURL": "https://a0.muscache.com/im/pictures/miso/Hosting-1126803960644517735/original/1ab11fcb-fcd5-4f3f-87ba-d19ddb9867b7.jpeg?im_w=1200",
+                "description": "Entrance of the cave"
+            },
+            {
+                "photoURL": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTEyNjgwMzk2MDY0NDUxNzczNQ%3D%3D/original/23766f83-cc4c-429f-a108-52dcad5ec599.jpeg?im_w=1440",
+                "description": "Bedroom"
+            }
+        ],
+        "reviews": [
+            {
+                "user_id": 101,
+                "rating": 5.00,
+                "comment": "Unbelievable experience!",
+                "review_date": "2024-04-20T12:30:10"
+            },
+            {
+                "user_id": 68,
+                "rating": 4.75,
+                "comment": "A bit pricey, but worth it",
+                "review_date": "2023-03-15T16:45:55"
+            }
+        ],
+        "bookings": [
+            {
+                "user_id": 54,
+                "checkIn": "2024-04-12",
+                "checkOut": "2024-04-16",
+                "noGuests": 2,
+                "payment": {
+                    "amount": 599.98,
+                    "payment_date": "2024-04-10",
+                    "payment_method": "Credit card"
+                }
+            },
+            {
+                "user_id": 41,
+                "checkIn": "2024-03-01",
+                "checkOut": "2024-03-05",
+                "noGuests": 1,
+                "payment": {
+                    "amount": 299.99,
+                    "payment_date": "2024-02-28",
+                    "payment_method": "Credit card"
+                }
+            }
+        ]
+    }
+]
